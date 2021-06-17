@@ -70,3 +70,5 @@ As Node updates more than I update my blog posts, [please be sure to verify the 
 	nvm install node
 	nvm use node
 	nvm alias default node
+
+[https://dzone.com/articles/how-to-use-gitconfigs-includeif](https://dzone.com/articles/how-to-use-gitconfigs-includeif)
